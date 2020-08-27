@@ -1,0 +1,11 @@
+{
+      type: 'scorecard',
+      options: {
+        value: {
+          text: '1,000'
+        },
+        title: {
+          text: 'ZingPoints'
+        }
+      }
+}
